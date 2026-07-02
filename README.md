@@ -1,50 +1,42 @@
-# Hi there, I'm Ashwin! 👋
+# Ashwin C
 
-I'm a software developer and product enthusiast with a strong interest in Machine Learning, Cryptography, and building useful tools. 
+Software Engineer specializing in backend development, API integration, and product delivery within large-scale financial and enterprise systems. I bridge the gap between engineering and product strategy, translating technical constraints into business deliverables.
 
-- 🔭 I’m currently working on product management frameworks and developer tools.
-- 🌱 I’m currently learning advanced Deep Learning techniques and system architecture.
-- ⚡ Fun fact: I love building tools that save system memory (like tab suspenders!).
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-
-  <!-- Frameworks / Libraries -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+- Experience: Close to 5 years building backend microservices, automations, and platform features.
+- Specializations: Java/Spring Boot development, Python scripting, REST APIs, and Machine Learning.
+- Cloud Certifications: Google Cloud Associate Cloud Engineer, Google Cloud Professional Cloud Developer, Microsoft Azure Fundamentals (AZ-900).
 
 ---
 
-### 📊 GitHub Stats
+### Core Tech Stack
+
+- **Languages:** Java, Python, SQL, JavaScript, HTML, CSS
+- **Backend & Frameworks:** Spring Boot, REST APIs, Microservices, Flask, microservices architecture
+- **Data & Machine Learning:** TensorFlow, NumPy, Pandas, OpenCV, Collaborative Filtering, Transfer Learning
+- **DevOps & Infrastructure:** Jenkins (CI/CD), Git, Docker, Splunk, Grafana, Google Cloud Platform (GCP), Microsoft Azure
+
+---
+
+### Key Open-Source Projects
+
+- **case-interview-prep:** Product management interview preparation resources, frameworks, and mock case studies.
+- **smart_chrome_tab_suspender:** A utility tool built in JavaScript that suspends inactive tabs to free up system memory.
+- **ECC_FLASK:** A demonstration of Elliptic Curve Cryptography (ECC) key generation and encryption with a Python Flask interface.
+- **MNIST-Digit-recognizer:** Convolutional neural networks trained on the MNIST dataset for handwritten digit recognition.
+- **Transfer-learning_MobileNetV2-Flower-categorization:** TensorFlow image classification pipeline utilizing transfer learning with the MobileNetV2 model.
+
+---
+
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cashwin1203&show_icons=true&theme=radical&hide_border=true" alt="Ashwin's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cashwin1203&layout=compact&theme=radical&hide_border=true" alt="Ashwin's Top Languages" height="150" />
 </p>
+
+---
+
+### Professional Links
+
+- **LinkedIn:** [linkedin.com/in/ashwin-c-780141129](https://www.linkedin.com/in/ashwin-c-780141129/)
+- **Email:** cashwin1203@gmail.com
