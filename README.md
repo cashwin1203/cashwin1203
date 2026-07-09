@@ -66,7 +66,7 @@ Product & Agile    →  Product Ownership · Backlog · SAFe · JIRA · Confluen
 Engineering        →  Python · Java · Spring Boot · REST APIs · Microservices · Docker · Kubernetes
 Data               →  SQL · NoSQL · Splunk · Grafana · Tableau
 Cloud              →  GCP (PCD, ACE) · AWS · Azure · Terraform · CI/CD (Jenkins)
-AI Tools           →  Claude · GitHub Copilot · Lovable
+AI Tools           →  Claude · GitHub Copilot · Lovable · Codex · Antigravity · LangChain
 Domain             →  Financial Services · Payments · Loan Origination · Regulatory Compliance
 ```
 
