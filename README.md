@@ -82,13 +82,6 @@ Domain             →  Financial Services · Payments · Loan Origination · Re
 
 ---
 
-## 📈 GitHub Stats
-
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashwin1203&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cashwin1203&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 <div align="center">
 
 *"The best PMs have deep empathy for users, obsess over data, and can talk to engineers as equals."*
