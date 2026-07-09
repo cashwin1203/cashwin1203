@@ -52,7 +52,7 @@ I've owned backlogs, run Agile ceremonies, managed cross-functional stakeholders
 - **[MNIST-Digit-recognizer](./MNIST-Digit-recognizer)** — CNN-based digit recognition trained on MNIST.
 
 ### 🔐 Published Research
-- **[ECC_FLASK](./ECC_FLASK)** — Web implementation of the hybrid ECC + LSB Steganography architecture from my **IEEE-published paper** on securing IoT data transmission (June 2021).
+- **[ECC_FLASK](./ECC_FLASK)** — Web implementation of the hybrid ECC + LSB Steganography architecture from my **[IEEE-published paper](https://ieeexplore.ieee.org/document/9545135)**: *Enhanced Data Encryption in IoT using ECC Cryptography and LSB Steganography* (June 2021).
 
 ### 📋 PM Practice
 - **[case-interview-prep](./case-interview-prep)** — PM case interview frameworks, mock cases, and product teardowns I'm actively building out.
@@ -78,7 +78,7 @@ Domain             →  Financial Services · Payments · Loan Origination · Re
 - 🏅 **Google Cloud Associate Cloud Engineer**
 - 🏅 **Microsoft Azure Fundamentals (AZ-900)**
 - 🏅 **MTA: Introduction to Programming using Python (98-381)**
-- 📄 **IEEE Publication** — *Enhanced Data Encryption in IoT using ECC Cryptography & LSB Steganography* (June 2021)
+- 📄 **[IEEE Publication](https://ieeexplore.ieee.org/document/9545135)** — *Enhanced Data Encryption in IoT using ECC Cryptography and LSB Steganography* (June 2021)
 
 ---
 
